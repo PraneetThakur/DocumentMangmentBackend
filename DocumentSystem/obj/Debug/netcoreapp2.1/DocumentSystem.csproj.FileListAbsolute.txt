@@ -1,0 +1,36 @@
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\appsettings.json
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\DocumentSystem.deps.json
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\DocumentSystem.runtimeconfig.json
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\DocumentSystem.runtimeconfig.dev.json
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\DocumentSystem.dll
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.csprojAssemblyReference.cache
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.AssemblyInfoInputs.cache
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.AssemblyInfo.cs
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.RazorAssemblyInfo.cache
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.RazorAssemblyInfo.cs
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.RazorTargetAssemblyInfo.cache
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.genruntimeconfig.cache
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\DocumentSystem.pdb
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.csproj.CoreCompileInputs.cache
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.dll
+D:\praneet data\Praneet Project\New DocumentManagement\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.pdb
+F:\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\appsettings.json
+F:\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\DocumentSystem.deps.json
+F:\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\DocumentSystem.runtimeconfig.json
+F:\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\DocumentSystem.runtimeconfig.dev.json
+F:\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\DocumentSystem.dll
+F:\DocumentSystem\DocumentSystem\bin\Debug\netcoreapp2.1\DocumentSystem.pdb
+F:\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.csprojAssemblyReference.cache
+F:\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.AssemblyInfoInputs.cache
+F:\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.AssemblyInfo.cs
+F:\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.csproj.CoreCompileInputs.cache
+F:\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.RazorAssemblyInfo.cache
+F:\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.RazorAssemblyInfo.cs
+F:\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.RazorTargetAssemblyInfo.cache
+F:\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.dll
+F:\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.pdb
+F:\DocumentSystem\DocumentSystem\obj\Debug\netcoreapp2.1\DocumentSystem.genruntimeconfig.cache
